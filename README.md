@@ -34,3 +34,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=kitsune_yk)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/yk-mt12/yk-mt12/blob/main/images/stat.svg" alt="Alternative Text"/>
+
+
