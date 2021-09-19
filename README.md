@@ -5,7 +5,4 @@
   <a href="http://twitter.com/kitsune_yk">
     <img height="20" src="https://img.shields.io/twitter/follow/yk-mt12?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://note.com/kitsune_yk124712/">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yk-mt12/posts.svg" />
-  </a>
 </p>
