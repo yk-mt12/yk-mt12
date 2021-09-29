@@ -32,8 +32,8 @@
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=kitsune_yk)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=kitsune_yk)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/yk-mt12/yk-mt12/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/yk-mt12/yk-mt12/blob/main/images/stat.svg" alt="Alternative Text"/> -->
 
 
