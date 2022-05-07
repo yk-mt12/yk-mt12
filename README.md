@@ -9,6 +9,14 @@
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCda09m8gx2U4zGPufhloPag?label=youtube&style=social" />
   </a>
 </p>
+<ul>
+  <li>
+    <a href="https://www.kitsune-blog.tokyo">kitune blog</a>
+  </li>
+  <li>
+    <a href="https://www.kitsune-yk.tokyo">portfolio</a>
+  </li>
+</ul>
 
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
