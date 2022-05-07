@@ -1,3 +1,14 @@
+## about me
+I am a 3rd year student<br/>
+Currently, as a student intern, I am a front-end engineer at an in-house development company in Shiga, Japan.
+I am involved in the development of mobile apps for the company's services and the creation of internal tools (customer lists) using python.<br/>
+I am also a part-time SNS marketing team director.<br/>
+I have been involved in team management, content management, and member recruitment since the team was launched.
+
+## links
+- [kitsune blog](https://kitsune-blog.tokyo)
+- [portfolio](https://kitsune-yk.tokyo)
+
 <p align="left"> 
   <a href="https://github.com/yk-mt12/yk-mt12/">
     <img src="https://komarev.com/ghpvc/?username=yk-mt12" alt="yk-mt12" />
@@ -9,15 +20,6 @@
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCda09m8gx2U4zGPufhloPag?label=youtube&style=social" />
   </a>
 </p>
-<ul>
-  <li>
-    <a href="https://www.kitsune-blog.tokyo">kitune blog</a>
-  </li>
-  <li>
-    <a href="https://www.kitsune-yk.tokyo">portfolio</a>
-  </li>
-</ul>
-
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-mt12&layout=compact&theme=tokyonight"/>
