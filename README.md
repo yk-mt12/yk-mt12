@@ -3,7 +3,6 @@ I am a 3rd year student at kyoto sangyo university<br/>
 
 ## links
 - [kitsune blog](https://kitsune-blog.tokyo)
-- [portfolio](https://kitsune-yk.tokyo)
 
 <p align="left"> 
   <a href="https://github.com/yk-mt12/yk-mt12/">
