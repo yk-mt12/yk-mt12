@@ -1,9 +1,5 @@
 ## about me
-I am a 3rd year student<br/>
-Currently, as a student intern, I am a front-end engineer at an in-house development company in Shiga, Japan.
-I am involved in the development of mobile apps for the company's services and the creation of internal tools (customer lists) using python.<br/>
-I am also a part-time SNS marketing team director.<br/>
-I have been involved in team management, content management, and member recruitment since the team was launched.
+I am a 3rd year student at kyoto sangyo university<br/>
 
 ## links
 - [kitsune blog](https://kitsune-blog.tokyo)
