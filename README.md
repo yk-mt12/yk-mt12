@@ -1,6 +1,3 @@
-## about me
-I am a 3rd year student at kyoto sangyo university<br/>
-
 ## links
 - [kitsune blog](https://kitsune-blog.tokyo)
 
