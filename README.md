@@ -1,6 +1,6 @@
 ## Who am I 🤔  
   
-### 今年度の目標   
+### 今年度の目標と学習したい（している）言語
 フロントエンド以外の体型的な知識の習得/競プロ/コーディングスキル,及び開発スキルの向上  
 
 研究
@@ -50,11 +50,13 @@ Kitsune Blog - https://www.kitsune-blog.tokyo/
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCda09m8gx2U4zGPufhloPag?label=youtube&style=social" />
   </a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yk-mt12&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-mt12&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yk-mt12&count_private=true&show_icons=true&theme=tokyonight&line_height=40" />
 </a>
 
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -63,8 +65,5 @@ Kitsune Blog - https://www.kitsune-blog.tokyo/
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=kitsune_yk)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github.com/yk-mt12/yk-mt12/blob/main/images/stat.svg" alt="Alternative Text"/> -->
 
 
