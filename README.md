@@ -12,21 +12,12 @@
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCda09m8gx2U4zGPufhloPag?label=youtube&style=social" />
   </a>
 </p>
-<p align="left"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-mt12&layout=compact&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yk-mt12&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
-
-
-<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yk-mt12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://github-readme-stats.vercel.app/api?username=yk-mt12&show_icons=true&theme=tokyonight)
-
- -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yk-mt12&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-mt12&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
