@@ -66,4 +66,3 @@ Kitsune Blog - https://www.kitsune-blog.tokyo/
 [![](https://raw.githubusercontent.com/yk-mt12/yk-mt12/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
