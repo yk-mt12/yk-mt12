@@ -1,5 +1,43 @@
-## links
-- [kitsune blog](https://kitsune-blog.tokyo)
+## Who am I 🤔  
+  
+### 今年度の目標   
+フロントエンド以外の体型的な知識の習得/競プロ/コーディングスキル,及び開発スキルの向上  
+
+研究
+- flutter
+- flask
+- PHP
+- MySql
+- docker
+
+個人開発
+- Golang
+- flutter
+
+インターン
+- Symfony, PHP
+- flutter?
+- Vue.js
+
+### インターン参加  
+- ブリッジコーポレーション - 2021/08 ~ 2022/01
+- AIoT - 2022/03 ~ 2022/05
+- エムティーアイ　- 2022/09 ~ 2022/09
+- ラクス tech lab - 2022/10 ~ 2022/11
+- Yolo Japan - 2022/11 ~ 
+
+### ハッカソン参加
+- PR TIMES 2days Hackathon - 2022/08
+- 技育展【開発経験1年未満】 チャバットボ 
+  
+### ブログ  
+Kitsune Blog - https://www.kitsune-blog.tokyo/
+  
+### その他
+[![trophy](https://github-profile-trophy.vercel.app/?username=yk-mt12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 <p align="left"> 
   <a href="https://github.com/yk-mt12/yk-mt12/">
