@@ -11,13 +11,6 @@
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCda09m8gx2U4zGPufhloPag?label=youtube&style=social" />
   </a>
 </p>
-
-- 📖 My favorite programming languages **React, React-Native, Typescript**
-
-- 🌱 I’m currently learning **PHP, Symfony, Golang, Flutter, Docker**
-
-- 📝 I regularly write articles on [https://www.kitsune-blog.tokyo](https://www.kitsune-blog.tokyo)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kitsune_yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kitsune_yk" height="30" width="40" /></a>
