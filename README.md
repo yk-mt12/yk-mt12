@@ -24,8 +24,7 @@
 - **CI/CD**: ArgoCD, GitHub Actions
 
 ## 👋 About Me
-ZOZO inc. SRE（Site Reliability Engineer）@ Nakano City, Tokyo  
-メンバー認証インフラ専門。システム信頼性・可観測性向上に情熱。[attached_file:3][memory:52]
+[attached_file:3][memory:52]
 
 ## ✨ Highlights
 - 🎖️ GitHub Profile Views: 4,197 [attached_file:1]
